@@ -24,3 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.fitnessclub", appContext.getPackageName());
     }
 }
+//Изменение №2
